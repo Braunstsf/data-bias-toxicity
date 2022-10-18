@@ -1,0 +1,71 @@
+,index,comment,toxic_user,severe_toxic_user,toxicity_score,toxic_api,severe_toxic_api
+0,1,i hope you understand that you may be the most unintelligent being in the world,1,0,0.5363433,0,0
+1,2,your breath stinks,0,0,0.7464593,1,0
+2,3,holy crap,0,0,0.7060645,1,0
+3,4,you deserve nothing less but the most dull and boring life because you are as sharp as a skipping stone,1,1,0.7344555,1,0
+4,5,he is so gay,0,0,0.83020335,1,0
+5,6,I really like flowers,0,0,0.029469188,0,0
+6,7,that dog pooped,0,0,0.34575438,0,0
+7,8,that dog crapped,0,0,0.44509158,0,0
+8,9,get stuffed,0,0,0.2712817,0,0
+9,10,civil war ,0,0,0.111500904,0,0
+10,11,I like guns ,0,0,0.23365098,0,0
+11,12,she is so dumb ,1,0,0.90742445,1,1
+12,13,fuck,0,0,0.9017833,1,1
+13,14,he was murdered,0,0,0.31725118,0,0
+14,15,wow this car is hella cool,0,0,0.06652113,0,0
+15,16,shit,0,0,0.7007861,1,0
+16,17,why don't you think before you act,0,0,0.23540631,0,0
+17,18,I hope you have learned your lesson,0,0,0.13745339,0,0
+18,19,"u should retire, you are getting dumber everyday",1,1,0.8202001,1,0
+19,20,I hope that you have gotten better at your job ,1,0,0.07091636,0,0
+20,21,that song was really lousy,0,0,0.43451136,0,0
+21,22,Your such a loser,1,0,0.83020335,1,0
+22,23,diary of the wimpy kid,0,0,0.21804169,0,0
+23,24,pendejo,1,0,0.743089,1,0
+24,25,chink ,1,1,0.36667302,0,0
+25,26,beaner,1,1,0.31089294,0,0
+26,27,asshole,1,0,0.89158845,1,0
+27,28,stupid,1,0,0.7060645,1,0
+28,29,dang she was so fucking cool,0,0,0.6430099,0,0
+29,30,we learned about slaves in the civil war,0,0,0.123736724,0,0
+30,31,he was a slave,0,0,0.36944604,0,0
+31,32,slave,0,0,0.37221906,0,0
+32,33,you are such a simp,1,0,0.56268007,0,0
+33,34,kill yourself,1,1,0.8742253,1,0
+34,35,I wish that your family eventually succumbs to endless debt ,1,0,0.5026305,0,0
+35,36,I really want some miso soup,0,0,0.092262976,0,0
+36,37,I don't care about you at all ,0,0,0.39230084,0,0
+37,38,you don't mean anything to me,1,0,0.10461388,0,0
+38,39,why are you so cool ,0,0,0.050242316,0,0
+39,40,dumbass,1,0,0.8457076,1,0
+40,41,I can't imagine a universe that would be better off with you ,1,1,0.3955794,0,0
+41,42,stop being so lazy and stupid,1,0,0.9358428,1,1
+42,43,you act like an animal,1,0,0.5851118,0,0
+43,44,racist,0,0,0.53837943,0,0
+44,45,she is so racist,0,0,0.5810591,0,0
+45,46,cemetery ,0,0,0.04165838,0,0
+46,47,she died a difficult death ,0,0,0.22069082,0,0
+47,48,why ,0,0,0.016729267,0,0
+48,49,She is cancerous,1,0,0.5818954,0,0
+49,50,what the fuck,1,0,0.8742253,1,0
+50,51,I dislike all politicans ,1,0,0.355017,0,0
+51,52,Why can't I be better at school,0,0,0.09494796,0,0
+52,53,I wish college was easier ,0,0,0.05852979,0,0
+53,54,College fucking sucks ,1,0,0.9583344,1,1
+54,55,I hate myself,1,0,0.39230084,0,0
+55,56,I am bad at accounting,0,0,0.1530536,0,0
+56,57,I really like these damn flowers.,0,0,0.650189,0,0
+57,58,Henry Fitzroy is an illegitimate child,0,0,0.39230084,0,0
+58,59,He is a bastard,1,0,0.9254919,1,1
+59,60,He was born as a bastard,1,0,0.87209356,1,0
+60,61,I believe that you shouldn't have been born ,1,0,0.7007861,1,0
+61,62,do longer words or comments afffect perspective api at all at any frequency. Perhaps typing more would lead to higher or lower toxicity. ,0,0,0.052935857,0,0
+62,63,do longer words or comments afffect perspective api at all at any frequency. Perhaps typing more would lead to higher or lower toxicity. I will add a curse word at the end of this comment to affirm my hypothesis that they are weighed too heavily when determining something is toxic. Fuck. ,0,0,0.7699882,1,0
+63,64,"As long as you justify your choice of labels and threshold, you will receive full credit for data exploration.",0,0,0.014646785,0,0
+64,65,Wow you are poor,1,0,0.49688783,0,0
+65,66,You make minimum wage ,0,0,0.062925026,0,0
+66,67,I hope you fucking die,1,1,0.9728165,1,1
+67,68,I like burgers,0,0,0.040284947,0,0
+68,69,abortion,0,0,0.28948012,0,0
+69,70,she just got an abortion last week. ,0,0,0.27045983,0,0
