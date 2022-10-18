@@ -1,2 +1,6 @@
 # data-bias-toxicity
-Repository for HCD Assignment 2: Data Bias
+## Repository for HCD Assignment 2: Data Bias
+
+The goal of this project was to explore the uses of Perspective API and the labeled and scored dataset provided. It also lead to trying to find biases within Perspective API and seeing if any trends of false positives or false negatives were apparent in a dataset that students were supposed to provide. My goal in the project was mainly seeing if comments with curse words/words with bad connotations led to a higher weight in terms of establishing a toxicity score. Since modern culture has changed its view of curse words being only toxic to based on context, I wanted to see if Perspective API would reflect that in the 70 comment datasheet that I created. This is important to oversee for people working on Perspective API since censorship of content could result in many false positives that had good attentions. 
+
+The results I got were that Perspective API graded things generally more graciously than I did as a user in terms of comments. However, this result changes if you considered changing the threshold toxicity score. Some results in the notebook showed examples of false positives and false negatives that were very apparent. Some biases could be seen but with such a small dataset, I wasn't able to conclude that it had any biases. 
